@@ -45,7 +45,7 @@
 
 /*__write_selector_here__*/ 
 
-#basket.img {
+#basket img {
   position: absolute;
   z-index: 3;
   top: 217px;
